@@ -22,7 +22,7 @@ calVal = []
 
 # Part 2:
 for i in range(len(calDoc)):
-    tmp =[]
+    tmp = []
 
     for j in range(len(calDoc[i])):
         for k in range(len(numsArray)):
